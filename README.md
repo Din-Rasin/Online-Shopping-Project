@@ -57,10 +57,10 @@ This project simulates a real-world online store with responsive design, secure 
 | Layer    | Technologies Used                              |
 | -------- | ---------------------------------------------- |
 | Frontend | HTML, CSS, JavaScript, Bootstrap / React / Vue |
-| Backend  | PHP / Node.js / Python (Flask, Django)         |
-| Database | MySQL / PostgreSQL / MongoDB                   |
-| APIs     | Stripe / Razorpay (Payment Gateway)            |
-| Tools    | jQuery, AJAX, Chart.js, FontAwesome            |
+| Backend  | PHP / Node.js        
+| Database | MySQL /                  
+| APIs     | Stripe           
+| Tools    | jQuery, AJAX  |
 
 ---
 
@@ -93,8 +93,8 @@ Preview the user interface and feature modules in the screenshots/ folder.
 
 ### 📸 Demo
 
-* 🌐 Live Demo: [yourstore.example.com](#)
-* 🎥 Demo Video: [Watch on YouTube](#)
+* 🌐 Live Demo: [[yourstore.example.com](#)](https://github.com/Din-Rasin/Online-Shopping-Project)
+* 🎥 Demo Video: [[Watch on YouTube](#)](https://github.com/Din-Rasin/Online-Shopping-Project)
 
 ---
 
@@ -132,7 +132,7 @@ This project is open-source and available under the MIT License.
 
 * 📧 Email: denrasin2917@gmail.com
 * 💼 LinkedIn: +855 93940080
-* 🌐 Portfolio: [your-website.com](#)
+* 🌐 Portfolio:[ [your-website.com](#)](https://github.com/Din-Rasin/Online-Shopping-Project)
 
 ---
 
