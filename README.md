@@ -93,8 +93,8 @@ Preview the user interface and feature modules in the screenshots/ folder.
 
 ### 📸 Demo
 
-* 🌐 Live Demo: [[yourstore.example.com](#)](https://github.com/Din-Rasin/Online-Shopping-Project)
-* 🎥 Demo Video: [[Watch on YouTube](#)](https://github.com/Din-Rasin/Online-Shopping-Project)
+* 🌐 Live Demo: (https://github.com/Din-Rasin/Online-Shopping-Project)
+* 🎥 Demo Video:(https://github.com/Din-Rasin/Online-Shopping-Project)
 
 ---
 
@@ -132,7 +132,7 @@ This project is open-source and available under the MIT License.
 
 * 📧 Email: denrasin2917@gmail.com
 * 💼 LinkedIn: +855 93940080
-* 🌐 Portfolio:[ [your-website.com](#)](https://github.com/Din-Rasin/Online-Shopping-Project)
+* 🌐 Portfolio:(https://github.com/Din-Rasin/Online-Shopping-Project)
 
 ---
 
