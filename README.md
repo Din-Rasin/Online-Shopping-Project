@@ -1,54 +1,48 @@
+Sure! Here's a clean, professional, and complete version of your `README.md` for the **Online Shopping System**, including proper formatting, demo images, and improved Markdown layout:
 
+---
+
+````markdown
 ## 🛒 Online Shopping System
-[![Online Shopping Screenshot](https://raw.githubusercontent.com/Din-Rasin/Online-Shopping-Project/3a7bafc9d2f7617953516814790eacc6e0eea758/1.png)](https://raw.githubusercontent.com/Din-Rasin/Online-Shopping-Project/3a7bafc9d2f7617953516814790eacc6e0eea758/1.png)
 
 The **Online Shopping System** is a full-stack eCommerce platform that enables users to browse, search, and purchase products online. It includes powerful admin tools for managing products, categories, orders, and customers.
 
 This project simulates a real-world online store with responsive design, secure authentication, and interactive features.
 
 ---
-<!-- Failed to upload "View Picture Demo Online Shopping Project.mp4" -->
+
 ### 🌟 Key Features
 
 * 👥 **User Registration & Login**
-
   * Role-based access for Admin and Customers
   * Password encryption & secure authentication
 
 * 🛍️ **Product Catalog**
-
   * Browse and search products by name, category, or price
   * Product images, descriptions, and stock availability
 
 * 🛒 **Shopping Cart & Wishlist**
-
   * Add/remove items to cart
   * Save products for later
 
 * 💳 **Order & Checkout System**
-
   * Cart review, address input, and order summary
   * Order tracking and history
 
 * 📦 **Admin Panel**
-
   * Add, update, delete products and categories
   * Manage users, orders, and product inventory
 
 * 🔎 **Search & Filter**
-
   * Filter by price, category, or brand
 
 * 🔔 **Email Notifications**
-
   * Order confirmation and shipping updates
 
 * 📊 **Dashboard Analytics**
-
   * View total sales, pending orders, and customer stats
 
 * 🌐 **Responsive UI**
-
   * Mobile, tablet, and desktop-friendly layout
 
 ---
@@ -56,46 +50,53 @@ This project simulates a real-world online store with responsive design, secure 
 ### 🛠️ Tech Stack (Customizable)
 
 | Layer    | Technologies Used                              |
-| -------- | ---------------------------------------------- |
+|----------|------------------------------------------------|
 | Frontend | HTML, CSS, JavaScript, Bootstrap / React / Vue |
-| Backend  | PHP / Node.js        
-| Database | MySQL /                  
-| APIs     | Stripe           
-| Tools    | jQuery, AJAX  |
+| Backend  | PHP / Node.js                                  |
+| Database | MySQL                                          |
+| APIs     | Stripe                                         |
+| Tools    | jQuery, AJAX                                   |
 
 ---
 
-📁 Or Download the Screenshots
-Preview the user interface and feature modules in the screenshots/ folder.
- download the full preview as a compressed file:
-📦 Download Demo (RAR File)
+### 📸 Demo
+
+* 🌐 Live Demo: [GitHub Repository](https://github.com/Din-Rasin/Online-Shopping-Project)
+* 🎥 Demo Video: _Coming Soon_
+
+#### 🖼️ Screenshots
+
+<img src="https://raw.githubusercontent.com/Din-Rasin/Online-Shopping-Project/3a7bafc9d2f7617953516814790eacc6e0eea758/1.png" width="600" />
+<img src="https://raw.githubusercontent.com/Din-Rasin/Online-Shopping-Project/3a7bafc9d2f7617953516814790eacc6e0eea758/2.png" width="600" />
+<img src="https://raw.githubusercontent.com/Din-Rasin/Online-Shopping-Project/3a7bafc9d2f7617953516814790eacc6e0eea758/3.png" width="600" />
+<img src="https://raw.githubusercontent.com/Din-Rasin/Online-Shopping-Project/3a7bafc9d2f7617953516814790eacc6e0eea758/4.png" width="600" />
+<img src="https://raw.githubusercontent.com/Din-Rasin/Online-Shopping-Project/3a7bafc9d2f7617953516814790eacc6e0eea758/5.png" width="600" />
+<img src="https://raw.githubusercontent.com/Din-Rasin/Online-Shopping-Project/3a7bafc9d2f7617953516814790eacc6e0eea758/6.png" width="600" />
+<img src="https://raw.githubusercontent.com/Din-Rasin/Online-Shopping-Project/3a7bafc9d2f7617953516814790eacc6e0eea758/7.png" width="600" />
+<img src="https://raw.githubusercontent.com/Din-Rasin/Online-Shopping-Project/3a7bafc9d2f7617953516814790eacc6e0eea758/8.png" width="600" />
+<img src="https://raw.githubusercontent.com/Din-Rasin/Online-Shopping-Project/3a7bafc9d2f7617953516814790eacc6e0eea758/9.png" width="600" />
 
 ---
 
 ### 🔧 Installation Guide
 
 1. **Clone the Repository**
-
    ```bash
-   git clone https://github.com/your-username/Online-Shopping-System.git
-   ```
+   git clone https://github.com/Din-Rasin/Online-Shopping-Project.git
+````
+
 2. **Set Up the Environment**
 
-   * Configure your `.env` or `config.php` file with DB credentials
+   * Configure your `.env` or `config.php` file with database credentials
    * Install backend dependencies using Composer / npm / pip
-3. **Initialize Database**
 
-   * Import `database.sql` via phpMyAdmin or CLI
+3. **Initialize the Database**
+
+   * Import `database.sql` via phpMyAdmin or command line
+
 4. **Run the Application**
 
-   * Launch with XAMPP / Django server / Node.js
-
----
-
-### 📸 Demo
-
-* 🌐 Live Demo: (https://github.com/Din-Rasin/Online-Shopping-Project)
-* 🎥 Demo Video:(https://github.com/Din-Rasin/Online-Shopping-Project)
+   * Launch using XAMPP / Django server / Node.js
 
 ---
 
@@ -117,23 +118,35 @@ Preview the user interface and feature modules in the screenshots/ folder.
 Contributions are welcome! Here's how:
 
 1. Fork the repository
-2. Create a new branch (`git checkout -b feature/YourFeature`)
+2. Create a new branch
+
+   ```bash
+   git checkout -b feature/YourFeature
+   ```
 3. Make your changes and commit
-4. Push to GitHub and open a pull request
+4. Push to GitHub and open a Pull Request
 
 ---
 
 ### 📄 License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
 ### 📬 Contact
 
-* 📧 Email: denrasin2917@gmail.com
-* 💼 LinkedIn: +855 93940080
-* 🌐 Portfolio:(https://github.com/Din-Rasin/Online-Shopping-Project)
+* 📧 Email: [denrasin2917@gmail.com](mailto:denrasin2917@gmail.com)
+* 📱 Phone: +855 93 940 080
+* 🌐 Portfolio: [GitHub Profile](https://github.com/Din-Rasin/Online-Shopping-Project)
 
 ---
 
+```
+
+---
+
+✅ You can now copy and paste this into your GitHub project's `README.md`.
+
+Let me know if you want this styled with a table of contents or turned into a PDF!
+```
