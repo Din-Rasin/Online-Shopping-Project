@@ -6,7 +6,7 @@ The **Online Shopping System** is a full-stack eCommerce platform that enables u
 This project simulates a real-world online store with responsive design, secure authentication, and interactive features.
 
 ---
-
+<!-- Failed to upload "View Picture Demo Online Shopping Project.mp4" -->
 ### 🌟 Key Features
 
 * 👥 **User Registration & Login**
