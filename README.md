@@ -1,5 +1,6 @@
 
 ## 🛒 Online Shopping System
+[![Online Shopping Screenshot](https://raw.githubusercontent.com/Din-Rasin/Online-Shopping-Project/3a7bafc9d2f7617953516814790eacc6e0eea758/1.png)](https://raw.githubusercontent.com/Din-Rasin/Online-Shopping-Project/3a7bafc9d2f7617953516814790eacc6e0eea758/1.png)
 
 The **Online Shopping System** is a full-stack eCommerce platform that enables users to browse, search, and purchase products online. It includes powerful admin tools for managing products, categories, orders, and customers.
 
